@@ -1,5 +1,5 @@
 %define upstream_name    Test-POE-Server-TCP
-%define upstream_version 1.12
+%define upstream_version 1.14
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
